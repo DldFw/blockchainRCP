@@ -1,0 +1,3 @@
+[submodule "wallet/Multy-Core"]
+	path = wallet/Multy-Core
+	url = https://github.com/DldFw/Multy-Core.git
